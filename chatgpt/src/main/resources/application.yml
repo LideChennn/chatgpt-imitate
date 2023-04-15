@@ -14,9 +14,9 @@ mybatis:
   mapper-locations: classpath:cn/edu/gdpu/chatgpt/dao/*.xml
   type-aliases-package: cn.edu.gdpu.chatgpt.domain
 
-#openai
+#openai 需要key
 openai:
-  key: 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
+  key: sk-
   hostname: 127.0.0.1
   port: 10809
   timeout: 120
