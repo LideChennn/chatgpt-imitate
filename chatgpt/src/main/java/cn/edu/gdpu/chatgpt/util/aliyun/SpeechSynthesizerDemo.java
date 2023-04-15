@@ -140,9 +140,9 @@ public class SpeechSynthesizerDemo {
     }
 
     public static void main(String[] args) throws Exception {
-        String appKey = "oWjlAQ7ZTyU0vTei";
-        String id = "LTAI5tSXuByeSjoH6f6TnPLE";
-        String secret = "NNEjLPKXsZBuDowtDMZSgJPxWceBMH";
+        String appKey = "";
+        String id = "";
+        String secret = "";
         String url = "wss://nls-gateway.cn-shanghai.aliyuncs.com/ws/v1"; //默认值：wss://nls-gateway.cn-shanghai.aliyuncs.com/ws/v1
         SpeechSynthesizerDemo demo = new SpeechSynthesizerDemo(appKey, id, secret, url);
         demo.process();

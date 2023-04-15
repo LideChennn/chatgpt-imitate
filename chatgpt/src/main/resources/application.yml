@@ -24,5 +24,6 @@ openai:
     model: gpt-3.5-turbo
     systemRole: You are a helpful assistant
 
+# 需要key
 aliyun:
-  key: c086e8fb0d7147dca70a883fc4494f55
+  key: c
