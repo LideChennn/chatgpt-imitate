@@ -1,0 +1,12 @@
+server:
+  port: 80
+logging:
+  level:
+    root: info
+
+openai:
+  key: 12345s
+  user:
+    - 张三
+    - 历史
+    - 王五
